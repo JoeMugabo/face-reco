@@ -1,0 +1,11 @@
+/* .backgroundColor {
+    background: linear-gradient( 45deg,  #eecbb1 100%,  #f5e5d6 0%)
+} */
+
+.form {
+    width: 700px;
+    background-color: #bacdc3;
+opacity: 0.9;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #bacdc3 10px ), repeating-linear-gradient( #0f0c2955, #0f0c29 );
+}
+

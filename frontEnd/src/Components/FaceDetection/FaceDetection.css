@@ -1,0 +1,19 @@
+
+.boundingBox {
+    position: absolute;
+    box-shadow: 0 0 0 3px #FFCC00 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer; 
+}
+
+
+/* .boundingBox {
+    position: absolute;
+    box-shadow: 0 0 0 3px #FFFF00 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+} */
